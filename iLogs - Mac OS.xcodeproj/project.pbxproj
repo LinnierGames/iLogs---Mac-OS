@@ -118,7 +118,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E1B9E7281CA315110065CF15 /* Build configuration list for PBXProject "iLog" */;
+			buildConfigurationList = E1B9E7281CA315110065CF15 /* Build configuration list for PBXProject "iLogs - Mac OS" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -281,7 +281,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E1B9E7281CA315110065CF15 /* Build configuration list for PBXProject "iLog" */ = {
+		E1B9E7281CA315110065CF15 /* Build configuration list for PBXProject "iLogs - Mac OS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E1B9E7451CA315110065CF15 /* Debug */,
